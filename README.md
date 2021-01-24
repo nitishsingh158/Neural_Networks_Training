@@ -13,6 +13,8 @@ Scikit-Learn
 TensorFlow v2.4.0
 
 ### Results
+
+
 A. Preprocessing Data for Neural Network model
 This model target variable considered is - IS_SUCCESSFUL
 The rest of the data is considered as the features. All data was used in order to have sufficient input data available
